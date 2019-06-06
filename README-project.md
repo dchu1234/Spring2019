@@ -12,8 +12,8 @@ __Progress report (Due May 17 at 10 pm on GauchoSpace)__: A one page document co
 __Poster presentation (June 11, 8-11 am)__: Being able to communicate your project is important. There will be a "[poster session](https://www.youtube.com/watch?v=AwMFhyH7_5g)" during the class final exam time. You will be graded on your poster as well as get feedback from the teaching staff and your classmates.
 
 A fancy poster printing is *not* necessary unless you want one for yourself. What I would recommend is a [poster board](https://www.staples.com/Elmer-s-White-Corrugated-Display-Board/product_302919) like the following:
-![this](https://www.staples-3p.com/s7/is/image/Staples/s0257172_sc7?wid=512&hei=512)
-A folding poster board is much easier to carry as well.
+![this](https://www.staples-3p.com/s7/is/image/Staples/s0257172_sc7?wid=512&hei=512) ![this](https://www.staples-3p.com/s7/is/image/Staples/sp49507890_sc7?wid=512&hei=512) 
+Folding boards are easier to carry and stand up, too
 
 __Report (Due June 13 at 10 pm on GauchoSpace)__: 
 1. You need to provide a *Jupyter notebook report* of your project. You may use multiple notebooks to separate material into parts (also, in order to avoid any large notebook issues). 
