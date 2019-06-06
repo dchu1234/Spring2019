@@ -11,7 +11,13 @@ __Progress report (Due May 17 at 10 pm on GauchoSpace)__: A one page document co
 
 __Poster presentation (June 11, 8-11 am)__: Being able to communicate your project is important. There will be a "[poster session](https://www.youtube.com/watch?v=AwMFhyH7_5g)" during the class final exam time. You will be graded on your poster as well as get feedback from the teaching staff and your classmates.
 
-__Report (Due June 13 at 10 pm on GauchoSpace)__: You need to provide a Jupyter notebook report of your project. You may use multiple notebooks to separate material into parts (also, in order to avoid any large notebook issues). If your project is not accepted by GauchoSpace due to space limitation (100 MB), prepare a shared zip-archive of complete set of files needed to run your project on Box: https://ucsb.account.box.com/login. Everyone at UCSB has an unlimited storage using this service. Indicate the URL location of your shared zip-archive on your Jupyter notebooks on GauchoSpace, and indicate the shared link on your notebook. Note that any file that needs to be downloaded using API keys, etc, need to be pickled into a separate file(s) and made available in the zipped-archive.
+A fancy poster printing is *not* necessary unless you want one for yourself. What I would recommend is something like the following:
+![this](https://www.staples-3p.com/s7/is/image/Staples/s0257172_sc7?wid=512&hei=512) ![this](https://www.staples-3p.com/s7/is/image/Staples/sp49507890_sc7?wid=512&hei=512) 
+
+__Report (Due June 13 at 10 pm on GauchoSpace)__: 
+1. You need to provide a *Jupyter notebook report* of your project. You may use multiple notebooks to separate material into parts (also, in order to avoid any large notebook issues). 
+2. If your project is not accepted by GauchoSpace due to space limitation (100 MB), prepare a shared zip-archive of complete set of files needed to run your project on Box: https://ucsb.account.box.com/login. Everyone at UCSB has an unlimited storage using this service. Indicate the URL location of your shared zip-archive on your Jupyter notebooks on GauchoSpace, and indicate the shared link on your notebook. Note that any file that needs to be downloaded using API keys, etc, need to be pickled into a separate file(s) and made available in the zipped-archive.
+3. Your report should be a proper report: introduction/background info about your dataset, discussion of your approach and methods, discussion of the results, possible improvements/future directions, and a conclusion
 
 ## Possible Project Ideas
 
@@ -30,12 +36,15 @@ You also build classification models using your new features
 Minimum variance portfolio selection problem was discussed in a naive setting to illustrate the theory. 
 Using the theory in practice, however, requires a more sophisticated approach. 
 For example, since real financial market is not stationary, portfolio weights needs to be recomputed periodically (called rebalancing).
+
 Costs associated with trades need to be included in the calculation: borrowing cost, transaction cost, etc.
 For reference, you can refer to Appendix J in [this paper](https://arxiv.org/abs/1307.5381) for details. 
 A pre-built package that powers a quantitative trading strategy site is [Quantopian](https://www.quantopian.com/home).
 They release a package that powers [their site](http://www.zipline.io/). The package takes care of the details. 
 Refer to some examples [here](http://www.zipline.io/beginner-tutorial.html).  
 A project idea is to tackle minimum variance portfolio investment strategy with Zipline.
+
+Covariance estimation is an interesting topic. You can use different covariance estimates for portfolio optimization, and discuss any results.
 
 ### Health data 
 
